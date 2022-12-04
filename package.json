@@ -7,7 +7,7 @@
 		"email": "me@samuelmeuli.com",
 		"url": "https://samuelmeuli.com"
 	},
-	"repository": "github:samuelmeuli/action-electron-builder",
+	"repository": "github:hrueger/action-electron-builder",
 	"license": "MIT",
 	"private": true,
 	"main": "./index.js",
